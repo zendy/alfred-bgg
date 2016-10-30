@@ -1,0 +1,54 @@
+<items total="13" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="170216">
+    <name type="primary" value="Blood Rage"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgame" id="174506">
+    <name type="primary" value="Blood Rage: 5th Player Expansion"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgame" id="174849">
+    <name type="primary" value="Blood Rage: 5th Player Expansion – Kickstarter Exclusives"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgame" id="174801">
+    <name type="primary" value="Blood Rage: Gods of Ásgard"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgame" id="193898">
+    <name type="primary" value="Blood Rage: Hili – The Even-Handed"/>
+    <yearpublished value="2016"/>
+  </item>
+  <item type="boardgame" id="174388">
+    <name type="primary" value="Blood Rage: Kickstarter Exclusives"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgame" id="175100">
+    <name type="primary" value="Blood Rage: Mystics of Midgard"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgameexpansion" id="174506">
+    <name type="primary" value="Blood Rage: 5th Player Expansion"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgameexpansion" id="174849">
+    <name type="primary" value="Blood Rage: 5th Player Expansion – Kickstarter Exclusives"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgameexpansion" id="174801">
+    <name type="primary" value="Blood Rage: Gods of Ásgard"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgameexpansion" id="193898">
+    <name type="primary" value="Blood Rage: Hili – The Even-Handed"/>
+    <yearpublished value="2016"/>
+  </item>
+  <item type="boardgameexpansion" id="174388">
+    <name type="primary" value="Blood Rage: Kickstarter Exclusives"/>
+    <yearpublished value="2015"/>
+  </item>
+  <item type="boardgameexpansion" id="175100">
+    <name type="primary" value="Blood Rage: Mystics of Midgard"/>
+    <yearpublished value="2015"/>
+  </item>
+</items>

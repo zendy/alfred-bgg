@@ -1,54 +1,662 @@
-<items total="13" termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
-  <item type="boardgame" id="170216">
-    <name type="primary" value="Blood Rage"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgame" id="174506">
-    <name type="primary" value="Blood Rage: 5th Player Expansion"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgame" id="174849">
-    <name type="primary" value="Blood Rage: 5th Player Expansion – Kickstarter Exclusives"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgame" id="174801">
-    <name type="primary" value="Blood Rage: Gods of Ásgard"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgame" id="193898">
-    <name type="primary" value="Blood Rage: Hili – The Even-Handed"/>
-    <yearpublished value="2016"/>
-  </item>
-  <item type="boardgame" id="174388">
-    <name type="primary" value="Blood Rage: Kickstarter Exclusives"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgame" id="175100">
-    <name type="primary" value="Blood Rage: Mystics of Midgard"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgameexpansion" id="174506">
-    <name type="primary" value="Blood Rage: 5th Player Expansion"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgameexpansion" id="174849">
-    <name type="primary" value="Blood Rage: 5th Player Expansion – Kickstarter Exclusives"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgameexpansion" id="174801">
-    <name type="primary" value="Blood Rage: Gods of Ásgard"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgameexpansion" id="193898">
-    <name type="primary" value="Blood Rage: Hili – The Even-Handed"/>
-    <yearpublished value="2016"/>
-  </item>
-  <item type="boardgameexpansion" id="174388">
-    <name type="primary" value="Blood Rage: Kickstarter Exclusives"/>
-    <yearpublished value="2015"/>
-  </item>
-  <item type="boardgameexpansion" id="175100">
-    <name type="primary" value="Blood Rage: Mystics of Midgard"/>
-    <yearpublished value="2015"/>
-  </item>
+<items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse">
+<item type="boardgameexpansion" id="16971">
+<thumbnail>//cf.geekdo-images.com/images/pic72662_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic72662.jpg</image>
+<name type="primary" sortindex="1" value="Fanhunter: Suburbia Expansion"/>
+<description>
+Expansion for the game Fanhunter Battles.&#10;&#10;It allows to expand the world of Fanhunter, adding new troops and big Guys.&#10;&#10;
+</description>
+<yearpublished value="1999"/>
+<minplayers value="0"/>
+<maxplayers value="0"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+<results numplayers="0+"></results>
+</poll>
+<playingtime value="0"/>
+<minplaytime value="0"/>
+<maxplaytime value="0"/>
+<minage value="10"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0"></poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="0"></poll>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamecategory" id="1010" value="Fantasy"/>
+<link type="boardgamecategory" id="1079" value="Humor"/>
+<link type="boardgamecategory" id="1019" value="Wargame"/>
+<link type="boardgamemechanic" id="2001" value="Action Point Allowance System"/>
+<link type="boardgamemechanic" id="2011" value="Modular Board"/>
+<link type="boardgamefamily" id="21929" value="Fanhunter"/>
+<link type="boardgameexpansion" id="16970" value="Fanhunter Batallitas" inbound="true"/>
+<link type="boardgamedesigner" id="5077" value="Cels Piñol"/>
+<link type="boardgamepublisher" id="3819" value="Farsa's Wagon"/>
+<statistics page="1">
+<ratings>
+<usersrated value="16"/>
+<average value="6.6125"/>
+<bayesaverage value="0"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+</ranks>
+<stddev value="2.11006"/>
+<median value="0"/>
+<owned value="31"/>
+<trading value="0"/>
+<wanting value="2"/>
+<wishing value="3"/>
+<numcomments value="6"/>
+<numweights value="0"/>
+<averageweight value="0"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgame" id="81185">
+<thumbnail>//cf.geekdo-images.com/images/pic809952_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic809952.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia"/>
+<description>
+Suburbia is a party game in which players have to complete activities in each of the eight catagories in order to successfully move their pawn around the board. The catagories are:&#10;&#10;-Acting Out: Act out the answer without talking or making noises.&#10;-Ambidoodle: Draw with your non-dominant hand without talking...&#10;-Brain Clutter: Trivia questions&#10;-Common Thread: Figure out what three words have in common&#10;-Mixed Messages: Unscramble letters to make up an anwser.&#10;-Noise Violations: Make noises without talking or using words or gestures.&#10;-Scribbles: Draw without talking...&#10;-Unmentionables: Give descriptions without revealing the word.&#10;&#10;
+</description>
+<yearpublished value="2001"/>
+<minplayers value="4"/>
+<maxplayers value="0"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+<results numplayers="0+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+</poll>
+<playingtime value="60"/>
+<minplaytime value="60"/>
+<maxplaytime value="60"/>
+<minage value="0"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0"></poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+<results>
+<result level="6" value="No necessary in-game text" numvotes="0"/>
+<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+<result level="10" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1030" value="Party Game"/>
+<link type="boardgamemechanic" id="2073" value="Acting"/>
+<link type="boardgamemechanic" id="2039" value="Line Drawing"/>
+<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil"/>
+<link type="boardgamemechanic" id="2019" value="Partnerships"/>
+<link type="boardgamemechanic" id="2060" value="Pattern Recognition"/>
+<link type="boardgamedesigner" id="3" value="(Uncredited)"/>
+<link type="boardgamepublisher" id="15764" value="Relativity Productions"/>
+<statistics page="1">
+<ratings>
+<usersrated value="5"/>
+<average value="7.5"/>
+<bayesaverage value="0"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+</ranks>
+<stddev value="0.774597"/>
+<median value="0"/>
+<owned value="5"/>
+<trading value="1"/>
+<wanting value="0"/>
+<wishing value="5"/>
+<numcomments value="0"/>
+<numweights value="2"/>
+<averageweight value="3"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgame" id="123260">
+<thumbnail>//cf.geekdo-images.com/images/pic1418335_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic1418335.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia"/>
+<name type="alternate" sortindex="1" value="Субурбия"/>
+<name type="alternate" sortindex="1" value="シティビルダー"/>
+<description>
+Plan, build, and develop a small town into a major metropolis. Use hex-shaped building tiles to add residential, commercial, civic, and industrial areas, as well as special points of interest that provide benefits and take advantage of the resources of nearby towns. Your goal is to have your borough thrive and end up with a greater population than any of your opponents.&#10;&#10;Suburbia is a tile-laying game in which each player tries to build up an economic engine and infrastructure that will be initially self-sufficient, and eventually become both profitable and encourage population growth. As your town grows, you'll modify both your income and your reputation. As your income increases, you'll have more cash on hand to purchase better and more valuable buildings, such as an international airport or a high rise office building. As your reputation increases, you'll gain more and more population (and the winner at the end of the game is the player with the largest population).&#10;&#10;During each game, players compete for several unique goals that offer an additional population boost &ndash; and the buildings available in each game vary, so you'll never play the same game twice!&#10;&#10;
+</description>
+<yearpublished value="2012"/>
+<minplayers value="1"/>
+<maxplayers value="4"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="222">
+<results numplayers="1">
+<result value="Best" numvotes="5"/>
+<result value="Recommended" numvotes="71"/>
+<result value="Not Recommended" numvotes="54"/>
+</results>
+<results numplayers="2">
+<result value="Best" numvotes="63"/>
+<result value="Recommended" numvotes="123"/>
+<result value="Not Recommended" numvotes="8"/>
+</results>
+<results numplayers="3">
+<result value="Best" numvotes="106"/>
+<result value="Recommended" numvotes="71"/>
+<result value="Not Recommended" numvotes="3"/>
+</results>
+<results numplayers="4">
+<result value="Best" numvotes="61"/>
+<result value="Recommended" numvotes="90"/>
+<result value="Not Recommended" numvotes="25"/>
+</results>
+<results numplayers="4+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="1"/>
+<result value="Not Recommended" numvotes="89"/>
+</results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="90"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="44">
+<results>
+<result value="2" numvotes="0"/>
+<result value="3" numvotes="0"/>
+<result value="4" numvotes="0"/>
+<result value="5" numvotes="0"/>
+<result value="6" numvotes="1"/>
+<result value="8" numvotes="8"/>
+<result value="10" numvotes="20"/>
+<result value="12" numvotes="12"/>
+<result value="14" numvotes="3"/>
+<result value="16" numvotes="0"/>
+<result value="18" numvotes="0"/>
+<result value="21 and up" numvotes="0"/>
+</results>
+</poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="63">
+<results>
+<result level="36" value="No necessary in-game text" numvotes="0"/>
+<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="16"/>
+<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="43"/>
+<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="4"/>
+<result level="40" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+<link type="boardgamemechanic" id="2004" value="Set Collection"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="6485" value="Mensa Select"/>
+<link type="boardgamefamily" id="5666" value="Solitaire Games"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="171007" value="Suburbia 5★"/>
+<link type="boardgameexpansion" id="145196" value="Suburbia Inc"/>
+<link type="boardgameexpansion" id="176806" value="Suburbia: Con Tiles"/>
+<link type="boardgameexpansion" id="128386" value="Suburbia: Essen SPIEL Expansion"/>
+<link type="boardgameexpansion" id="154984" value="Suburbia: Hala Stulecia"/>
+<link type="boardgamedesigner" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="11507" value="Klemens Franz"/>
+<link type="boardgameartist" id="62217" value="Ollin Timm"/>
+<link type="boardgamepublisher" id="5774" value="Bézier Games, Inc."/>
+<link type="boardgamepublisher" id="3475" value="Arclight"/>
+<link type="boardgamepublisher" id="29930" value="Cosmodrome Games"/>
+<link type="boardgamepublisher" id="234" value="Lookout Games"/>
+<link type="boardgamepublisher" id="25406" value="Planszoweczka.pl"/>
+<link type="boardgamepublisher" id="17786" value="uplay.it edizioni"/>
+<link type="boardgamepublisher" id="2861" value="Ystari Games"/>
+<statistics page="1">
+<ratings>
+<usersrated value="13296"/>
+<average value="7.67063"/>
+<bayesaverage value="7.52922"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="69" bayesaverage="7.52922"/>
+<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="54" bayesaverage="7.54148"/>
+</ranks>
+<stddev value="1.23699"/>
+<median value="0"/>
+<owned value="16048"/>
+<trading value="276"/>
+<wanting value="1130"/>
+<wishing value="4641"/>
+<numcomments value="2483"/>
+<numweights value="737"/>
+<averageweight value="2.772"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgameexpansion" id="171007">
+<thumbnail>//cf.geekdo-images.com/images/pic2372570_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic2372570.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia 5★"/>
+<name type="alternate" sortindex="1" value="Suburbia 5 Star"/>
+<description>
+Now that your town is up and running and is acting like a proper township, it's time to start growing even more rapidly by turning your borough into a tourist destination. Build landmarks, monuments, and tourist traps to increase your reputation and income while determining the player order each turn. In addition, the metropolitan area has expanded, allowing up to five players to build the city of their holiday dreams simultaneously.&#10;&#10;Suburbia 5&#226;&#152;&#133; adds fifty new unique building tiles, a new resource to manage (&#226;&#152;&#133;s), and components for a fifth player to the Suburbia base game. The new &#226;&#152;&#133; system determines player order, provides bonuses and penalties to the most/least tourist-friendly towns, and even breaks ties for public and private goals.&#10;&#10;
+</description>
+<yearpublished value="2015"/>
+<minplayers value="1"/>
+<maxplayers value="5"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+<results numplayers="1">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+<results numplayers="2">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="3"/>
+</results>
+<results numplayers="3">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="1"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4">
+<result value="Best" numvotes="1"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="5">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+<results numplayers="5+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="90"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+<results>
+<result value="2" numvotes="0"/>
+<result value="3" numvotes="0"/>
+<result value="4" numvotes="0"/>
+<result value="5" numvotes="0"/>
+<result value="6" numvotes="0"/>
+<result value="8" numvotes="0"/>
+<result value="10" numvotes="0"/>
+<result value="12" numvotes="0"/>
+<result value="14" numvotes="0"/>
+<result value="16" numvotes="0"/>
+<result value="18" numvotes="0"/>
+<result value="21 and up" numvotes="0"/>
+</results>
+</poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+<results>
+<result level="1" value="No necessary in-game text" numvotes="0"/>
+<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+<result level="5" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="176806" value="Suburbia: Con Tiles"/>
+<link type="boardgameexpansion" id="123260" value="Suburbia" inbound="true"/>
+<link type="boardgamedesigner" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="11507" value="Klemens Franz"/>
+<link type="boardgamepublisher" id="5774" value="Bézier Games, Inc."/>
+<link type="boardgamepublisher" id="2861" value="Ystari Games"/>
+<statistics page="1">
+<ratings>
+<usersrated value="304"/>
+<average value="7.25061"/>
+<bayesaverage value="5.96397"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.96397"/>
+</ranks>
+<stddev value="1.39367"/>
+<median value="0"/>
+<owned value="1698"/>
+<trading value="18"/>
+<wanting value="110"/>
+<wishing value="519"/>
+<numcomments value="106"/>
+<numweights value="13"/>
+<averageweight value="2.8462"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgameexpansion" id="145196">
+<thumbnail>//cf.geekdo-images.com/images/pic1722753_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic1722753.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia Inc"/>
+<description>
+Your borough has decided that it's time to incorporate. What does that mean for you, as its city planner? Well, lots more paperwork, that's for sure &ndash; but it also gives you great new possibilities for your little town.&#10;&#10;In Suburbia Inc, an expansion for the award-winning Suburbia strategy game, you get to develop your city in new directions: Define borders that are unique and provide you with all-new benefits; build more than a dozen new, powerful buildings to optimize your income and reputation; and take advantage of new Bonuses (to increase your income) and Challenges (to boost your reputation) by achieving mid-game goals.&#10;&#10;
+</description>
+<yearpublished value="2013"/>
+<minplayers value="1"/>
+<maxplayers value="4"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+<results numplayers="1">
+<result value="Best" numvotes="1"/>
+<result value="Recommended" numvotes="8"/>
+<result value="Not Recommended" numvotes="3"/>
+</results>
+<results numplayers="2">
+<result value="Best" numvotes="8"/>
+<result value="Recommended" numvotes="8"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+<results numplayers="3">
+<result value="Best" numvotes="7"/>
+<result value="Recommended" numvotes="6"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4">
+<result value="Best" numvotes="4"/>
+<result value="Recommended" numvotes="7"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+<results numplayers="4+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="11"/>
+</results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="90"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+<results>
+<result value="2" numvotes="0"/>
+<result value="3" numvotes="0"/>
+<result value="4" numvotes="0"/>
+<result value="5" numvotes="0"/>
+<result value="6" numvotes="0"/>
+<result value="8" numvotes="2"/>
+<result value="10" numvotes="1"/>
+<result value="12" numvotes="0"/>
+<result value="14" numvotes="0"/>
+<result value="16" numvotes="0"/>
+<result value="18" numvotes="0"/>
+<result value="21 and up" numvotes="0"/>
+</results>
+</poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+<results>
+<result level="16" value="No necessary in-game text" numvotes="0"/>
+<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3"/>
+<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+<result level="20" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamemechanic" id="2011" value="Modular Board"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="154984" value="Suburbia: Hala Stulecia"/>
+<link type="boardgameexpansion" id="123260" value="Suburbia" inbound="true"/>
+<link type="boardgamedesigner" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="11507" value="Klemens Franz"/>
+<link type="boardgameartist" id="62217" value="Ollin Timm"/>
+<link type="boardgamepublisher" id="157" value="Asmodee"/>
+<link type="boardgamepublisher" id="5774" value="Bézier Games, Inc."/>
+<link type="boardgamepublisher" id="234" value="Lookout Games"/>
+<link type="boardgamepublisher" id="25406" value="Planszoweczka.pl"/>
+<link type="boardgamepublisher" id="17786" value="uplay.it edizioni"/>
+<link type="boardgamepublisher" id="2861" value="Ystari Games"/>
+<statistics page="1">
+<ratings>
+<usersrated value="1858"/>
+<average value="8.06867"/>
+<bayesaverage value="7.2637"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="7.2637"/>
+<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="7.44256"/>
+</ranks>
+<stddev value="1.06714"/>
+<median value="0"/>
+<owned value="5546"/>
+<trading value="56"/>
+<wanting value="187"/>
+<wishing value="667"/>
+<numcomments value="456"/>
+<numweights value="78"/>
+<averageweight value="2.7179"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgameexpansion" id="176806">
+<thumbnail>//cf.geekdo-images.com/images/pic2498390_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic2498390.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia: Con Tiles"/>
+<description>
+Add the five most important gaming conventions in the world to your city with Suburbia: Con Tiles. These tiles are fully compatible with the Suburbia base game, while also including stars to work with the Suburbia 5&#226;&#152;&#133; expansion. This expansion includes tiles for:&#10;&#10;&#10; Kublacon (San Francisco, CA, USA / Memorial Day weekend, May)&#10; Dice Tower Con (Orlando, FL, USA / June)&#10; Gen Con (Indianapolis, IN, USA / Late July/Early August)&#10; Essen Spiel (Essen, Germany / October)&#10; BGG.CON (Dallas, TX, USA / November)&#10;&#10;&#10;These tiles can be obtained individually at Kublacon, Gen Con, Spiel, and BGG.CON at the Bezier Games booth or as a preorder set through Bezier Games. Additional sets of these tiles may be available for purchase following the 2015 conventions or at the BoardGameGeekStore.&#10;&#10;
+</description>
+<yearpublished value="2015"/>
+<minplayers value="1"/>
+<maxplayers value="4"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+<results numplayers="1">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="2">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="3">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="45"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0"></poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+<results>
+<result level="6" value="No necessary in-game text" numvotes="0"/>
+<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0"/>
+<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+<result level="10" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamemechanic" id="2041" value="Card Drafting"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="123260" value="Suburbia" inbound="true"/>
+<link type="boardgameexpansion" id="171007" value="Suburbia 5★" inbound="true"/>
+<link type="boardgamedesigner" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="62217" value="Ollin Timm"/>
+<link type="boardgamepublisher" id="5774" value="Bézier Games, Inc."/>
+<statistics page="1">
+<ratings>
+<usersrated value="61"/>
+<average value="6.90766"/>
+<bayesaverage value="5.58881"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58881"/>
+</ranks>
+<stddev value="1.44399"/>
+<median value="0"/>
+<owned value="661"/>
+<trading value="38"/>
+<wanting value="38"/>
+<wishing value="89"/>
+<numcomments value="70"/>
+<numweights value="3"/>
+<averageweight value="3"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgameexpansion" id="128386">
+<thumbnail>//cf.geekdo-images.com/images/pic1550674_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic1550674.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia: Essen SPIEL Expansion"/>
+<name type="alternate" sortindex="1" value="Suburbia: Essen SPIEL Erweiterung"/>
+<name type="alternate" sortindex="1" value="Suburbia: Essen SPIEL tessere promo"/>
+<description>
+Suburbia: Essen Spiel consists of three new buildings (with two copies of each) for Suburbia:&#10;&#10;&#10; Grugapark: This increases your borough's reputation, with a bonus for being adjacent to other Essen Spiel buildings.&#10; U-Bahn: This increases your borough's income, with a bonus for being adjacent to other Essen Spiel buildings.&#10; Messe Essen: This increases both your borough's reputation and income, with a bonus for being adjacent to other Essen Spiel buildings.&#10;&#10;&#10;To use these buildings in Suburbia, mix them into their appropriate stacks (A, B or C) prior to starting a game, then follow the instructions on each tile after adding it to your city.&#10;&#10;
+</description>
+<yearpublished value="2012"/>
+<minplayers value="1"/>
+<maxplayers value="4"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+<results numplayers="1">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="1"/>
+<result value="Not Recommended" numvotes="3"/>
+</results>
+<results numplayers="2">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="3"/>
+<result value="Not Recommended" numvotes="1"/>
+</results>
+<results numplayers="3">
+<result value="Best" numvotes="3"/>
+<result value="Recommended" numvotes="1"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4">
+<result value="Best" numvotes="2"/>
+<result value="Recommended" numvotes="2"/>
+<result value="Not Recommended" numvotes="0"/>
+</results>
+<results numplayers="4+">
+<result value="Best" numvotes="0"/>
+<result value="Recommended" numvotes="0"/>
+<result value="Not Recommended" numvotes="2"/>
+</results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="90"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+<results>
+<result value="2" numvotes="0"/>
+<result value="3" numvotes="0"/>
+<result value="4" numvotes="0"/>
+<result value="5" numvotes="0"/>
+<result value="6" numvotes="0"/>
+<result value="8" numvotes="0"/>
+<result value="10" numvotes="0"/>
+<result value="12" numvotes="1"/>
+<result value="14" numvotes="0"/>
+<result value="16" numvotes="0"/>
+<result value="18" numvotes="0"/>
+<result value="21 and up" numvotes="0"/>
+</results>
+</poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+<results>
+<result level="1" value="No necessary in-game text" numvotes="0"/>
+<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1"/>
+<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0"/>
+<result level="5" value="Unplayable in another language" numvotes="0"/>
+</results>
+</poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="123260" value="Suburbia" inbound="true"/>
+<link type="boardgamedesigner" id="6046" value="Ted Alspach"/>
+<link type="boardgameartist" id="11507" value="Klemens Franz"/>
+<link type="boardgameartist" id="62217" value="Ollin Timm"/>
+<link type="boardgamepublisher" id="5774" value="Bézier Games, Inc."/>
+<link type="boardgamepublisher" id="234" value="Lookout Games"/>
+<link type="boardgamepublisher" id="17786" value="uplay.it edizioni"/>
+<statistics page="1">
+<ratings>
+<usersrated value="295"/>
+<average value="6.66983"/>
+<bayesaverage value="5.79968"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.79968"/>
+</ranks>
+<stddev value="1.43113"/>
+<median value="0"/>
+<owned value="1110"/>
+<trading value="41"/>
+<wanting value="87"/>
+<wishing value="163"/>
+<numcomments value="118"/>
+<numweights value="22"/>
+<averageweight value="2.7727"/>
+</ratings>
+</statistics>
+</item>
+<item type="boardgameexpansion" id="154984">
+<thumbnail>//cf.geekdo-images.com/images/pic1929776_t.jpg</thumbnail>
+<image>//cf.geekdo-images.com/images/pic1929776.jpg</image>
+<name type="primary" sortindex="1" value="Suburbia: Hala Stulecia"/>
+<description>
+Suburbia: Hala Stulecia (The Centennial Hall) is a promo added to the Polish edition of Suburbia Inc., named after The Centennial Hall UNESCO Heritage building in Wroc&#197;&#130;aw (where the Polish publisher comes from).&#10;&#10;The Centennial Hall is a B-tile, which gives its owner +1 reputation per each adjacent tile (including lakes) but lowers your income by one. There are two of these tiles available. The expansion also includes two Redevelopment Planner tiles.&#10;&#10;Hala Stulecia is four tiles in a 'punch-out' cardboard, outside of the box.&#10;&#10;
+</description>
+<yearpublished value="2013"/>
+<minplayers value="1"/>
+<maxplayers value="4"/>
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+<results numplayers="4+"></results>
+</poll>
+<playingtime value="90"/>
+<minplaytime value="90"/>
+<maxplaytime value="90"/>
+<minage value="8"/>
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0"></poll>
+<poll name="language_dependence" title="Language Dependence" totalvotes="0"></poll>
+<link type="boardgamecategory" id="1029" value="City Building"/>
+<link type="boardgamecategory" id="1021" value="Economic"/>
+<link type="boardgamecategory" id="1042" value="Expansion for Base-game"/>
+<link type="boardgamemechanic" id="2011" value="Modular Board"/>
+<link type="boardgamemechanic" id="2002" value="Tile Placement"/>
+<link type="boardgamefamily" id="28052" value="Suburbia"/>
+<link type="boardgameexpansion" id="123260" value="Suburbia" inbound="true"/>
+<link type="boardgameexpansion" id="145196" value="Suburbia Inc" inbound="true"/>
+<link type="boardgamepublisher" id="25406" value="Planszoweczka.pl"/>
+<statistics page="1">
+<ratings>
+<usersrated value="14"/>
+<average value="7.78571"/>
+<bayesaverage value="0"/>
+<ranks>
+<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked"/>
+</ranks>
+<stddev value="1.53197"/>
+<median value="0"/>
+<owned value="53"/>
+<trading value="0"/>
+<wanting value="71"/>
+<wishing value="107"/>
+<numcomments value="4"/>
+<numweights value="3"/>
+<averageweight value="3.6667"/>
+</ratings>
+</statistics>
+</item>
 </items>

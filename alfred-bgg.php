@@ -70,6 +70,7 @@
     $items = new SimpleXMLElement("<items></items>"); 	// Create new XML element
 
     foreach ($games as $game):
+      $id = $game[0]['id'];
       $title = htmlspecialchars( $game->name[0]['value'] );
       $description = htmlspecialchars( $game->description );
       $avg_rating = (float)htmlspecialchars( $game->statistics->ratings->average[0]['value'] );
@@ -88,6 +89,8 @@
       $combinedDescription =  $year_published . " | rating: " . $avg_rating . " | rank: " . $rank . " | " . getNumberOfPlayers( $min_players, $max_players ) . " | " . getPlayingTime( $playing_time );
 
       $c = $items->addChild( 'item' );
+      $c->addAttribute( 'uid', $id );
+      $c->addAttribute( 'arg', $id );
       $d = $c->addChild( 'title', $combinedTitle);
       $e = $c->addChild( 'subtitle', $combinedDescription );
     endforeach;

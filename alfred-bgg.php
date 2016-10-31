@@ -46,7 +46,7 @@
       if( $min == 0 ) {
         $stringNumberOfPlayers = "Not Set";
       } else {
-        $stringNumberOfPlayers = $max . "+" . $min . " players";
+        $stringNumberOfPlayers = $max . " players";
       }
     } else {
       $stringNumberOfPlayers = $min . "-" . $max . " players";

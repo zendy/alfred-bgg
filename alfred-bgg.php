@@ -55,15 +55,30 @@
     return $stringNumberOfPlayers;
   }
 
-  function getPlayingTime( $playingtime ){
+  function getPlayingTime( $playing_time ){
     $stringPlayingTime = "";
-    if ( $playingtime == 0) {
+    if ( $playing_time == 0) {
       $stringPlayingTime = "Not Set";
     } else {
-      $stringPlayingTime = $playingtime . " minutes";
+      $stringPlayingTime = $playing_time . " minutes";
     }
 
     return $stringPlayingTime;
+  }
+
+  function getWeight( $avg_weight ){
+    $stringAvgWeight = "";
+
+    if( $avg_weight > 0 ) {
+      $stringAvgWeight = roundFloat( $avg_weight );
+    } else {
+      $stringAvgWeight = "Not Set";
+    }
+    return $stringAvgWeight;
+  }
+
+  function roundFloat( $number ) {
+    return round( $number, 2 );
   }
 
   function constructXMLResult( $games ){
@@ -75,6 +90,7 @@
       $description = htmlspecialchars( $game->description );
       $avg_rating = (float)htmlspecialchars( $game->statistics->ratings->average[0]['value'] );
       $geek_rating = (float)htmlspecialchars( $game->statistics->ratings->bayesaverage[0]['value'] );
+      $avg_weight = (float)htmlspecialchars( $game->statistics->ratings->averageweight[0]['value'] );
       $year_published = htmlspecialchars( $game->yearpublished[0]['value'] );
       $min_players = (int)htmlspecialchars( $game->minplayers[0]['value'] );
       $max_players = (int)htmlspecialchars( $game->maxplayers[0]['value'] );
@@ -83,10 +99,10 @@
       $weight = htmlspecialchars( $game->averageweight[0]['value'] );
       $thumb = htmlspecialchars( $game->thumbnail );
 
-      $avg_rating = round( $avg_rating, 2 );
-      $geek_rating = round( $geek_rating, 2 );
+      $avg_rating = roundFloat( $avg_rating );
+      $geek_rating = roundFloat( $geek_rating );
       $combinedTitle = $title;
-      $combinedDescription =  $year_published . " | rating: " . $avg_rating . " | rank: " . $rank . " | " . getNumberOfPlayers( $min_players, $max_players ) . " | " . getPlayingTime( $playing_time );
+      $combinedDescription =  $year_published . " | rating: " . $avg_rating . " | rank: " . $rank . " | weight: " . getWeight( $avg_weight ) . " | " . getNumberOfPlayers( $min_players, $max_players ) . " | " . getPlayingTime( $playing_time );
 
       $c = $items->addChild( 'item' );
       $c->addAttribute( 'uid', $id );

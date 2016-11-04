@@ -81,6 +81,34 @@
     return round( $number, 2 );
   }
 
+  function compareUsersRated( $first, $second ){
+    $firstUsersRated = (int)$first->statistics->ratings->usersrated[0]['value'];
+    $secondUsersRated = (int)$second->statistics->ratings->usersrated[0]['value'];
+
+    $val = 0;
+
+    if ( $firstUsersRated == $secondUsersRated ){
+      $val = 0;
+    }
+
+    if ( $firstUsersRated < $secondUsersRated ) {
+      $val = 1;
+    } else {
+      $val = -1;
+    }
+
+    return $val;
+  }
+
+  function sortByUsersRated( $games ){
+    $arrayOfGames = iterator_to_array( $games, false );
+
+    // sort based on usersrated
+    usort( $arrayOfGames, "compareUsersRated" );
+
+    return $arrayOfGames;
+  }
+
   function constructXMLResult( $games ){
     $items = new SimpleXMLElement("<items></items>"); 	// Create new XML element
 
@@ -124,7 +152,8 @@
 
   $resultThing = callAPI( thingURL( $stringIds ) );
 
-  $items = constructXMLResult( simplexml_load_string( $resultThing ) );
+  // $items = constructXMLResult( simplexml_load_string( $resultThing ) );
+  $items = constructXMLResult( sortByUsersRated( simplexml_load_string( $resultThing ) ) );
 
   echo $items->asXML();
 ?>
